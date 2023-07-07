@@ -1,14 +1,7 @@
 <h1 align="center"> Hey, this is Dayane!  👋</h1>
 
-<h3 align="center">A determined student aiming to become a great DEV 👩‍💻</h3>
-
-- 🌱 Studying  **Web Development** at **Driven**
-- 🎓 Pursuing **Electrical Engineering** at **UFRJ**
 - 🎯 I love **challenges** and always strive to **learn** something new
-- 📫 My email for contact: **dayanecarolina.oliveira@gmail.com**
-- 🔭 I'm currently working on my **personal project** about a game rental app.
-- 🌱 I'm currently learning about using Next.js for front-end development.
-- 👯 I’m looking to collaborate on Google Summer of Code **GSoC**.
+- 📫 My email for contact: **dayanecarolina.oliveira@gmail.com**.
 - 😄 Fun fact: I love listening to podcasts, so feel free to recommend any!
 
 # 💻 Tech Stack:
